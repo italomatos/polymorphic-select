@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  onwer: one
+  onwer_type: Onwer
+
+two:
+  name: MyString
+  onwer: two
+  onwer_type: Onwer
